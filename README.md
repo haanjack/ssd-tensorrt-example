@@ -53,3 +53,8 @@ python object_detection -p FLOAT/HALF -b 8 --num_iter 10
 python object_detection -p INT8 -b 8 --num_iter 10
 ```
 
+5. Future work
+   [ ] validation task integration
+   [ ] another object detection model
+   [ ] profile result
+   [ ] tensorboard integration
